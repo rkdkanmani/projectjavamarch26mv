@@ -15,11 +15,13 @@ public class SampleGitClass {
 		System.out.println("Branch A start the work");
 		String data="Test Data verified";
 		System.out.println(data);
+
 		long b= 7878;
 		if(b==565)
 		{
 			System.out.println("condition true");
 		}
+
 		
 		else
 		{

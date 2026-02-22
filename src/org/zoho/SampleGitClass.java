@@ -16,6 +16,9 @@ public class SampleGitClass {
 		gitData1();
 		int a1=443;
 		System.out.println(a1);
+		System.out.println("Branch A start the work");
+		String data="Test Data verified";
+		System.out.println(data);
 		
 		
 		
